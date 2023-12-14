@@ -158,7 +158,7 @@ To launch a lab via an API request in Postman:
 
     >**NOTE**: If you do not have access to the API Consumer, or can not retrieve the API Key contact the [customer support team](http://www.skillable.com/customer-support/) for assistance.
     >
-    >![Studio - API Key](Studio-API_Key.png)
+    >![Studio - API Key](connect-images/Studio-API_Key.png)
 
 1. In Skillable Studio select the **Copy** link for the API Key you will use to authenticate the **/Launch** API request.
 
